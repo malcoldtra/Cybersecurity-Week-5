@@ -38,11 +38,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This lab was a lot of fun! Challenge 5 was probably the most difficult because it required action from other users, but we weren't sure what that action was exactly.
+This lab was definitely more challenging than the week before. I still need to learn how to spot patterns in encryption methods. For example, a student was able to figure out that a challenge needed three rounds of decoding but I wouldn't have gotten that challenge without his help.
 
 ## Installation Instructions
 
-Setup instructions can be found on the Week 4 Lab page.
+Setup instructions can be found on the Week 5 Lab page.
 
 It should be noted that any browser can be used; however, Chrome and Firefox have one the most user-friendly Inspect Element interfaces.
 
